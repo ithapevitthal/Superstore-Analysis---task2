@@ -27,7 +27,3 @@ This project presents a comprehensive sales analysis of a fictional Superstore u
 
 **Vitthal Ithape**  
 Passionate about data analytics, SQL optimization, and turning raw data into actionable insights.
-
----
-
-Feel free to explore the dashboard and reach out for feedback or collaboration!
